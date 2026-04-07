@@ -1,0 +1,7 @@
+4
+a 3
+b 8
+c 1
+d 9
+bbdcabbbccabbbbcaabacaacd
+ddacdcddabdcadcbcbaacdcdc

@@ -1,0 +1,10 @@
+7
+a 7
+b 6
+c 1
+d 3
+e 5
+f 9
+g 2
+fgebdebcegfffccgfbedbeabg
+fgcbdfcdeffebdgfegdabbeae

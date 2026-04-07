@@ -1,0 +1,9 @@
+6
+a 4
+b 9
+c 10
+d 3
+e 2
+f 1
+badfdeabcdedfcdcbbadbcbea
+dcfbbaabffeeccaabfbacdbfb
