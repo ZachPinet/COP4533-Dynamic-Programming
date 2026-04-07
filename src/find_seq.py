@@ -77,7 +77,8 @@ def find_seq(input):
 # This is the main function.
 def main():
     root = os.path.dirname(os.path.abspath(__file__))
-    input_path = os.path.join(root, "inputs")
+    parent_root = os.path.dirname(root)
+    input_path = os.path.join(parent_root, "inputs")
 
     # Get the number of the input file.
     input_file_num = input("Enter input file number: ").strip()
